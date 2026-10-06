@@ -1,9 +1,9 @@
 # A Controlled Comparison of Self-Supervised Design Choices with Limited Labels for Colon H&E Classification: NCT-CRC Training and CRC-VAL External Validation
 
-Jaemin Hwang^a^, Meen Hye Lee^b^
+Jaemin Hwang, Meen Hye Lee
 
-^a^ Department of Computer Science, Kangwon National University, 150, Namwon-ro, Heungeop-myeon, Wonju-si, Gangwon-do, 26403, Rep. of KOREA  
-^b^ Department of Nursing, Kangwon National University, 150, Namwon-ro, Heungeop-myeon, Wonju-si, Gangwon-do, 26403, Rep. of KOREA
+Department of Computer Science, Kangwon National University, 150, Namwon-ro, Heungeop-myeon, Wonju-si, Gangwon-do, 26403, Rep. of KOREA  
+Department of Nursing, Kangwon National University, 150, Namwon-ro, Heungeop-myeon, Wonju-si, Gangwon-do, 26403, Rep. of KOREA
 
 Corresponding author: Jaemin Hwang, codesensory@gmail.com  
 Co-author: Meen Hye Lee, leemh00@kangwon.ac.kr
